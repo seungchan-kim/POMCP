@@ -1,8 +1,8 @@
 import numpy as np
-from Domain.State import State, Agent, Rock
-from Domain import ParameterizedActions as Actions
-from Domain import StaticConstants as Constants
-import Domain.Model as Model
+from domain.state import State, Agent, Rock
+from domain import ParameterizedActions as Actions
+from domain import StaticConstants as Constants
+import domain.Model as Model
 import copy
 from pdb import set_trace as bp
 

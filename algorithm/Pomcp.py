@@ -1,6 +1,6 @@
 import math
 import numpy as np
-import Domain.StaticConstants as Constants
+import domain.StaticConstants as Constants
 import copy
 from pdb import set_trace as bp
 

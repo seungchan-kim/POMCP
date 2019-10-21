@@ -1,6 +1,6 @@
-import Domain.StaticConstants as Constants
-import Domain.State.State as st
-import Domain.State.Agent as ag
+import domain.StaticConstants as Constants
+import domain.state.State as st
+import domain.state.Agent as ag
 import copy
 import math
 

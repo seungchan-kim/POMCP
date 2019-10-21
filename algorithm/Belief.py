@@ -1,5 +1,5 @@
-import Domain.State.State as State
-import Domain.State.Rock as Rock
+import domain.state.State as State
+import domain.state.Rock as Rock
 import copy
 
 class belief:

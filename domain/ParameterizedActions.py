@@ -1,4 +1,4 @@
-import Domain.StaticConstants as Constants
+import domain.StaticConstants as Constants
 
 class ParameterizedActions:
     def __init__(self, type, n):
