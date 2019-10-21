@@ -47,5 +47,3 @@ class Move(ParameterizedActions):
             actions.append(Constants.ACTION_MOVE+"_West")
 
         return actions
-                                                                                49,1          Bot
-
